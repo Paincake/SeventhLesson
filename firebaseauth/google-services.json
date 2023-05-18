@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664171520761",
+    "project_id": "seventhlesson",
+    "storage_bucket": "seventhlesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664171520761:android:12013efd7294bd9c8a7828",
+        "android_client_info": {
+          "package_name": "ru.mirea.ryazhevilya.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664171520761-q1dih8nv31t172d0nr7ojoccpbosvr78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqPa4uwTqrpU2C7kQVcBM-6xbZHUmlew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664171520761-q1dih8nv31t172d0nr7ojoccpbosvr78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
